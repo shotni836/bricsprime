@@ -1,0 +1,12 @@
+.vision-mission {
+    background: linear-gradient(180deg, #193B6E 0%, #193D73 47.92%, rgba(217, 217, 217, 0) 100%);
+    height: 300px;
+    margin-bottom: 40px;
+}
+.vision-mission-header {
+    color: white;
+    font-size: 40px;
+}
+body {
+    overflow-x: hidden;
+}
